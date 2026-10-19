@@ -1,0 +1,513 @@
+{
+ "Andrej Karpathy \"Intro to Large Language Models\"": [
+  [
+   "Karpathy: [1hr Talk] Intro to Large Language Models",
+   "zjkBMFhNj_g",
+   "T"
+  ]
+ ],
+ "3Blue1Brown \"Large Language Models explained briefly\"": [
+  [
+   "3Blue1Brown: Large Language Models, Explained Briefly (7 min)",
+   "WMcwoIyK4DA",
+   "T"
+  ]
+ ],
+ "StatQuest \"Word Embedding\"": [
+  [
+   "StatQuest: Word Embedding and Word2Vec, Clearly Explained",
+   "viZrOnJclY0",
+   "T"
+  ]
+ ],
+ "Sentence Transformers semantic search tutorial": [
+  [
+   "Sentence Transformers (SBERT) with PyTorch: Similarity and Semantic Search",
+   "nZ5j289WN8g",
+   "S"
+  ],
+  [
+   "Sentence Transformers: embedding, similarity, semantic search (code)",
+   "OlhNZg4gOvA",
+   "S"
+  ]
+ ],
+ "freeCodeCamp \"Learn RAG From Scratch\" LangChain engineer": [
+  [
+   "freeCodeCamp: Learn RAG From Scratch (Lance Martin, 2.5h)",
+   "sVcwVQRHIc8",
+   "T"
+  ]
+ ],
+ "RAG document loading PDF parsing Python": [
+  [
+   "Reading complex PDFs for RAG with LangChain + Unstructured",
+   "z95_D8nxtN4",
+   "S"
+  ],
+  [
+   "Docling PDF Parsing for RAG: clean tables and layout",
+   "rSdh5y3Fn5Y",
+   "S"
+  ]
+ ],
+ "5 levels of text splitting Greg Kamradt": [
+  [
+   "Greg Kamradt: The 5 Levels Of Text Splitting For Retrieval",
+   "8OJC21T2SL4",
+   "T"
+  ]
+ ],
+ "RAG tables PDF extraction": [
+  [
+   "RAG pipeline for complex PDFs (tables + images) with Docling & LangChain, fully local",
+   "44MsptcNzp4",
+   "S"
+  ],
+  [
+   "UnstructuredIO tutorial: document OCR & extraction",
+   "xPRzfYwYUmc",
+   "S"
+  ]
+ ],
+ "parent document retriever RAG": [
+  [
+   "Advanced RAG 02 - Parent Document Retriever (Sam Witteveen, has Colab)",
+   "wQEl0GGxPcM",
+   "S"
+  ],
+  [
+   "Advanced RAG 01: Small-to-Big Retrieval with LlamaIndex",
+   "ihSiRrOUwmg",
+   "S"
+  ]
+ ],
+ "Anthropic contextual retrieval explained": [
+  [
+   "The Best RAG Technique Yet? Anthropic's Contextual Retrieval Explained",
+   "tmiBae2goJM",
+   "S"
+  ],
+  [
+   "Build Contextual Retrieval with Anthropic and Pinecone",
+   "u-ocR-2P_YA",
+   "S"
+  ]
+ ],
+ "choosing embedding models for RAG MTEB": [
+  [
+   "Embedding Models Explained: How to Choose the Right One",
+   "YXjX3u4LZdQ",
+   "S"
+  ],
+  [
+   "Benchmark embedding models #1 - Introduction & MTEB leaderboard",
+   "6YrkXr-2cCc",
+   "S"
+  ]
+ ],
+ "ChromaDB tutorial RAG": [
+  [
+   "RAG Tutorial with Ollama and ChromaDB",
+   "g8fMRuGR5z0",
+   "S"
+  ],
+  [
+   "RAG Made Simple: ChromaDB + Python (all local)",
+   "InlB5-3-nR4",
+   "S"
+  ]
+ ],
+ "HNSW vector search explained": [
+  [
+   "HNSW for Vector Search Explained and Implemented with Faiss (Python)",
+   "QvKMwLjdK-s",
+   "S"
+  ],
+  [
+   "Vector Database Search - HNSW Explained",
+   "77QH0Y2PYKg",
+   "S"
+  ]
+ ],
+ "Qdrant tutorial": [
+  [
+   "Vector Databases Explained in 10 Minutes & Get Started with Qdrant (Python)",
+   "GDJN4QJezYY",
+   "S"
+  ],
+  [
+   "Semantic Search for Beginners with Qdrant",
+   "SgCd2o6hJIA",
+   "S"
+  ]
+ ],
+ "pgvector tutorial": [
+  [
+   "RAG with PostgreSQL and pgvector: Postgres as your vector database",
+   "_9WPh490T-A",
+   "S"
+  ],
+  [
+   "Set Up pgvector and Store Embeddings in PostgreSQL (Windows install)",
+   "ZwASqFrUXVw",
+   "S"
+  ]
+ ],
+ "BM25 explained": [
+  [
+   "BM25 in Python: better text search than TF-IDF with rank_bm25",
+   "aT-ubeEy6p4",
+   "S"
+  ],
+  [
+   "A no nonsense intro to BM25",
+   "TW9vHU1GpU4",
+   "S"
+  ]
+ ],
+ "hybrid search RAG reciprocal rank fusion": [
+  [
+   "Reciprocal Rank Fusion in Python: combine BM25 and embedding search",
+   "tHTQw-zHxks",
+   "S"
+  ],
+  [
+   "Hybrid RAG Explained: Dense + BM25 + RRF",
+   "UgYrGLKyYmI",
+   "S"
+  ]
+ ],
+ "reranking RAG cross encoder": [
+  [
+   "RAG Reranking Explained: Bi-Encoder vs Cross-Encoder (with benchmarking code)",
+   "tA85v3aGBIU",
+   "S"
+  ],
+  [
+   "Advanced RAG 04 - Reranking with Cross Encoders and Cohere API",
+   "ZFbaA9eM0uo",
+   "S"
+  ]
+ ],
+ "recall@k MRR nDCG explained": [
+  [
+   "RAG Retrieval Metrics Explained: Recall, Precision, MRR & NDCG (YouTube Short, about 1 min; no full video found, see TODO)",
+   "1M24UHWL41A",
+   "S"
+  ]
+ ],
+ "RAG from scratch query translation multi-query": [
+  [
+   "RAG from scratch: Part 5 (Multi Query)",
+   "JChPi0CRnDY",
+   "T"
+  ],
+  [
+   "RAG from scratch: Part 6 (RAG Fusion)",
+   "77qELPbNgxA",
+   "T"
+  ]
+ ],
+ "HyDE hypothetical document embeddings RAG": [
+  [
+   "RAG from scratch: Part 9 (HyDE)",
+   "SaDzIVkYqyY",
+   "T"
+  ]
+ ],
+ "RAG routing semantic router": [
+  [
+   "RAG from scratch: Part 10 (Routing)",
+   "pfpIndq7Fi8",
+   "T"
+  ]
+ ],
+ "text to SQL LLM tutorial": [
+  [
+   "Text to SQL with GPT-4o and SQLite (Colab, Python)",
+   "M9_ErR59_XY",
+   "S"
+  ],
+  [
+   "Build a local SQL AI agent (LangChain + Ollama)",
+   "ay_sYadoxgk",
+   "S"
+  ]
+ ],
+ "prompt engineering for RAG": [
+  [
+   "Advanced Prompt Engineering for RAG Pipelines (low confidence, see TODO)",
+   "81gjLH3RWGM",
+   "S"
+  ],
+  [
+   "How I built a RAG system that answers only from your files",
+   "i8XakkTRaJc",
+   "S"
+  ]
+ ],
+ "RAG citations source attribution": [
+  [
+   "Master Explainable RAG: citations, sources & page-level answers",
+   "PtsbjTuwcu4",
+   "S"
+  ],
+  [
+   "Advanced RAG Tutorial - Include Sources With LangChain LCEL",
+   "69gUQ4XHg0o",
+   "S"
+  ]
+ ],
+ "lost in the middle RAG long context vs RAG": [
+  [
+   "Long-Context LLMs vs RAG: Who Will Win? (only video found, see TODO)",
+   "-xcS9ByiJEo",
+   "S"
+  ]
+ ],
+ "structured output Pydantic LLM": [
+  [
+   "Get LLM output as Python object with LangChain and Pydantic",
+   "R0RwdOc338w",
+   "S"
+  ],
+  [
+   "LlamaIndex: How to Get Structured Data from LLMs",
+   "2Qr0yUGGpCE",
+   "S"
+  ]
+ ],
+ "LlamaIndex RAG tutorial": [
+  [
+   "LlamaIndex tutorial in less than 15 mins",
+   "IWyUUrvmb2A",
+   "S"
+  ],
+  [
+   "Wikipedia RAG System in Python - Beginner Tutorial with LlamaIndex",
+   "M9GtHb32F8w",
+   "S"
+  ]
+ ],
+ "LangChain LCEL RAG tutorial": [
+  [
+   "LangChain Expression Language (LCEL) Explained",
+   "E9oFkaBSTuM",
+   "S"
+  ],
+  [
+   "Retrieval Augmented Generation (RAG) with LangChain: A Complete Tutorial",
+   "YLPNA1j7kmQ",
+   "S"
+  ]
+ ],
+ "LangGraph tutorial for beginners": [
+  [
+   "LangGraph Complete Course for Beginners",
+   "jGg_1h0qzaM",
+   "S"
+  ],
+  [
+   "LangGraph Tutorial for Beginners: Build Your First AI Agent",
+   "UklCxmEvz2w",
+   "S"
+  ]
+ ],
+ "agentic RAG LangGraph": [
+  [
+   "Build an Agentic RAG System with LangGraph",
+   "moaWbFTVOEo",
+   "S"
+  ],
+  [
+   "Stop Using Basic RAG - Build Agentic RAG with LangGraph (full tutorial)",
+   "io5HFm93k40",
+   "S"
+  ]
+ ],
+ "LLM function calling tool use tutorial": [
+  [
+   "How to Connect an LLM to Python Functions (Tool Calling Tutorial)",
+   "liV0bfZ5Wu0",
+   "S"
+  ]
+ ],
+ "Self-RAG corrective RAG explained": [
+  [
+   "Self-reflective RAG with LangGraph: Self-RAG and CRAG",
+   "pbAd8O1Lvm4",
+   "S"
+  ],
+  [
+   "Corrective RAG (CRAG) Tutorial with LangGraph and LangChain",
+   "cAdu8mO01Bo",
+   "S"
+  ]
+ ],
+ "GraphRAG Microsoft explained": [
+  [
+   "GraphRAG: LLM-Derived Knowledge Graphs for RAG",
+   "r09tJfON6kE",
+   "S"
+  ],
+  [
+   "Graph RAG: Improving RAG with Knowledge Graphs",
+   "vX3A96_F3FU",
+   "S"
+  ]
+ ],
+ "Neo4j GraphRAG tutorial": [
+  [
+   "Neo4j GraphRAG in Python: multi-hop retrieval for hard questions",
+   "zV5ORht7Vkk",
+   "S"
+  ],
+  [
+   "RAG #14: GraphRAG Explained Clearly (Neo4j + LangChain)",
+   "2XKSWe8DEFw",
+   "S"
+  ]
+ ],
+ "multimodal RAG tutorial": [
+  [
+   "Multimodal RAG: Chat with PDFs (Images & Tables)",
+   "uLrReyH5cu0",
+   "S"
+  ],
+  [
+   "Multimodal RAG: Chat with Complex PDFs (Text, Tables & Images)",
+   "X0oIeSJHFD8",
+   "S"
+  ]
+ ],
+ "LangGraph multi-agent supervisor": [
+  [
+   "Build a Supervisor Multi-agent Architecture with LangGraph",
+   "KAwiykWkQ5Q",
+   "S"
+  ],
+  [
+   "LangGraph Multi-Agent Supervisor - build high level agents fast",
+   "WWcDnUCT52Q",
+   "S"
+  ]
+ ],
+ "LangGraph memory checkpointer tutorial": [
+  [
+   "Short-Term Memory with LangGraph",
+   "k3FUWWEwgfc",
+   "S"
+  ],
+  [
+   "LangGraph Tutorial: Conversation State with Checkpoints & Memory",
+   "crS0PNjElWo",
+   "S"
+  ]
+ ],
+ "conversation summary memory LLM": [
+  [
+   "Conversation Summary Memory (4.4)",
+   "asZQ8Ktqmt8",
+   "S"
+  ]
+ ],
+ "long term memory for AI agents vector store": [
+  [
+   "Long-Term Memory with LangGraph",
+   "fsENEq4F55Q",
+   "S"
+  ],
+  [
+   "LangGraph + Mem0 Integration: long-term memory for agents",
+   "e-wBojpJrrQ",
+   "S"
+  ]
+ ],
+ "Mem0 tutorial": [
+  [
+   "Mem0: a framework for long-term, personalized memory",
+   "bqKfT4waYEk",
+   "S"
+  ],
+  [
+   "Build AI Agents with REAL MEMORY (OpenAI + Mem0)",
+   "dFfLyCbPzRM",
+   "S"
+  ]
+ ],
+ "RAG evaluation dataset creation": [
+  [
+   "How To Generate RAGAS Testset In 1 Minute (with code; older API)",
+   "VJMUH3LbyDM",
+   "S"
+  ]
+ ],
+ "Ragas RAG evaluation tutorial": [
+  [
+   "RAG Evaluation Matrix Day 2: RAGAS Metrics (Faithfulness, Context Precision, Recall)",
+   "jZqrprZWfsg",
+   "S"
+  ],
+  [
+   "RAG Evaluation (LangChain)",
+   "bB56BaQIBm4",
+   "S"
+  ]
+ ],
+ "LLM as a judge evaluation": [
+  [
+   "DeepEval tutorial: RAG metrics with LLM-as-judge (Part 2)",
+   "VOGgCMhu1zg",
+   "S"
+  ],
+  [
+   "Amazon Bedrock RAG Evaluation (LLM as a Judge)",
+   "HI5b0g_mELA",
+   "S"
+  ]
+ ],
+ "RAG access control permissions enterprise": [
+  [
+   "Permissions & Access Control for RAG - a Deep Dive Tutorial",
+   "By_q6YCQlv4",
+   "S"
+  ],
+  [
+   "Access control & permissions in RAG for AI products",
+   "dTPMpliHzpE",
+   "S"
+  ]
+ ],
+ "prompt injection RAG indirect": [
+  [
+   "Indirect Prompt Injection Explained For Beginners",
+   "Iih7Ln8wvPY",
+   "S"
+  ]
+ ],
+ "semantic caching LLM RAG": [
+  [
+   "Optimizing RAG with Semantic Caching & LLM Memory (Redis)",
+   "QA3h4H5jqJw",
+   "S"
+  ],
+  [
+   "Semantic Caching Explained: reduce AI API costs with Redis",
+   "NrqvtsnjIHU",
+   "S"
+  ]
+ ],
+ "FastAPI Docker deploy tutorial": [
+  [
+   "RAG Tutorial 2026: Containerizing LLM Apps with LangChain & Docker",
+   "k4o8Zc8cSNU",
+   "S"
+  ],
+  [
+   "RAG API using FastAPI in 10 Minutes",
+   "h2NvBeAFGa0",
+   "S"
+  ]
+ ]
+}
