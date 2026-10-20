@@ -10,3 +10,4 @@ The learner is following `RAG-Mastery/` (50 study days, about 2 hours/day) to be
 - Update `RAG-Mastery/PROGRESS.md` and `EVALUATION.md` when the user finishes a day or a quiz. Grade quizzes using `quizzes/answers/` and list weak topics.
 - Don't show `quizzes/answers/` content before the user attempts the quiz.
 - Keep chat replies short and plain; put long material in files.
+- After each lesson, and whenever the user says "add this to the notes", write or update `RAG-Mastery/notes/day-XX-<topic>.md` in the easy style the user liked: plain language, simple analogies, Example (problem)/Example (fix) with real values, real output from the user's PC, errors hit and their fixes, a summary and a self-check. Keep the index in `RAG-Mastery/notes/README.md` current.

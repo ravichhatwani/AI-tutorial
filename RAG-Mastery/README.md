@@ -14,6 +14,7 @@ Goal: go from zero to building and shipping a production-style RAG app that you 
 - `PROGRESS.md` daily tracker + calendar
 - `RESOURCES.md` every video, doc, paper and course in one table (rate each one)
 - `PREFERENCES-AND-IMPROVEMENTS.md` your learning preferences + log of every plan improvement
+- `notes/` one note per lesson (easy explanations, examples, errors you hit)
 - `phases/` daily lessons, `quizzes/` tests, `EVALUATION.md` weak topics, `project/CAPSTONE.md`
 
 ## Tech stack (free or near-free)
